@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets\\diploma.bundle.scp.css"
     },
     {
+      "Id": "D:\\praktica\\diploma\\diploma\\wwwroot\\css\\authorize.css",
+      "PackagePath": "staticwebassets\\css\\authorize.css"
+    },
+    {
       "Id": "D:\\praktica\\diploma\\diploma\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "D:\\praktica\\diploma\\diploma\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\praktica\\diploma\\diploma\\wwwroot\\js\\authorize.js",
+      "PackagePath": "staticwebassets\\js\\authorize.js"
     },
     {
       "Id": "D:\\praktica\\diploma\\diploma\\wwwroot\\js\\site.js",

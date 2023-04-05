@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IR+3adk4xXRY47mcZGlCx0KCHdnBiwqZhhJFFV3tJsg=",
+  "Hash": "AwKKg5nPQN81vvO2eogIMR2N2f4b/sNJq815hqBKkIc=",
   "Source": "diploma",
   "BasePath": "_content/diploma",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "D:\\praktica\\diploma\\diploma\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\diploma.bundle.scp.css"
     },
     {
+      "Identity": "D:\\praktica\\diploma\\diploma\\wwwroot\\css\\authorize.css",
+      "SourceId": "diploma",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\praktica\\diploma\\diploma\\wwwroot\\",
+      "BasePath": "_content/diploma",
+      "RelativePath": "css/authorize.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\authorize.css"
+    },
+    {
       "Identity": "D:\\praktica\\diploma\\diploma\\wwwroot\\css\\site.css",
       "SourceId": "diploma",
       "SourceType": "Discovered",
@@ -83,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\praktica\\diploma\\diploma\\wwwroot\\js\\authorize.js",
+      "SourceId": "diploma",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\praktica\\diploma\\diploma\\wwwroot\\",
+      "BasePath": "_content/diploma",
+      "RelativePath": "js/authorize.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\authorize.js"
     },
     {
       "Identity": "D:\\praktica\\diploma\\diploma\\wwwroot\\js\\site.js",

@@ -24,10 +24,17 @@ namespace diploma.Controllers
             return View();
         }
 
+        [HttpPost]
         public IActionResult Privacy()
         {
             return View();
         }
+
+        [HttpPost]
+        //public IActionResult SignIn()
+        //{
+        //    return View("~Views/Home/Privacy.cshtml");
+        //}
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

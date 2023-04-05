@@ -1,5 +1,6 @@
 using diploma.Db.Tour;
 using Microsoft.EntityFrameworkCore;
+using System.Security.Policy;
 
 var builder = WebApplication.CreateBuilder(args);
 
